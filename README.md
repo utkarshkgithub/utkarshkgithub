@@ -20,7 +20,7 @@ I am particularly interested in:
 - Security and networking fundamentals  
 
 <p align="center">
-  <img src="https://i.giphy.com/sMK7zYV1hGGAajEznq.webp" width="450"/>
+  <img src="https://i.giphy.com/sMK7zYV1hGGAajEznq.webp" width="250"/>
 </p>
 
 ---
