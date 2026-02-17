@@ -19,6 +19,10 @@ I am particularly interested in:
 - Performance optimization & algorithmic thinking  
 - Security and networking fundamentals  
 
+<p align="center">
+  <img src="https://i.giphy.com/sMK7zYV1hGGAajEznq.webp" width="450"/>
+</p>
+
 ---
 
 ## 🛠 Tech Stack
