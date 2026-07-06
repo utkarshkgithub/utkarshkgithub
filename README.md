@@ -74,10 +74,9 @@ Docker • AWS • Linux • Git • CI/CD
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshkgithub&show_icons=true&theme=transparent" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshkgithub&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshkgithub&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=utkarshkgithub&theme=transparent&hide_border=true" height="165" />
 </p>
-
 ---
 
 ## Contribution Activity
