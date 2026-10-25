@@ -9,7 +9,7 @@ Backend • AI/ML • Cloud • Systems Engineering
 
 ## About Me
 
-I'm a third-year Computer Science student passionate about building scalable backend systems, AI-powered applications, and cloud-native infrastructure.
+I'm a 4th-year Computer Science student passionate about building scalable backend systems, AI-powered applications, and cloud-native infrastructure.
 
 My interests include:
 
